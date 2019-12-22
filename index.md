@@ -10,5 +10,5 @@ Syntax highlighted code block
 
 **Kuratorstwo cyfrowe** `Trochę otwartego kodu`
 
-[CMS w bibliotekach](https://www.cmswbibliotekach.umk.pl/) and ![Image](src)
+[CMS w bibliotekach](https://www.cmswbibliotekach.umk.pl/)
 ```

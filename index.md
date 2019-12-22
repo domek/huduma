@@ -6,9 +6,9 @@ lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 - List
 
 ```promocja 
-Syntax highlighted code block
 
 **Kuratorstwo cyfrowe** `Trochę otwartego kodu`
 
-[CMS w bibliotekach](https://www.cmswbibliotekach.umk.pl/)
 ```
+
+[CMS w bibliotekach](https://www.cmswbibliotekach.umk.pl/)

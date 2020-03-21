@@ -1,7 +1,3 @@
----
-title: index
----
-
 # O projekcie
 
 

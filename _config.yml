@@ -3,7 +3,3 @@ header_pages:
   - index.md
   - bibliografia.md
 show_downloads: true
-
-sidebar:
-  title: "Bibliografia"
-  nav: bibliografia

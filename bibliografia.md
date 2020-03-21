@@ -1,3 +1,8 @@
+---
+layout: page
+title: bibliografia
+---
+
 # Bibliografia
 
 ## Książki

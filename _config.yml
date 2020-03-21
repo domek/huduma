@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 header_pages:
   - index.md
   - bibliografia.md
+show_downloads: true

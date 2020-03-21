@@ -1,7 +1,4 @@
----
-layout: page
-title: Huduma
----
+# O projekcie
 
 
 ```promocja 
